@@ -23,7 +23,7 @@ This project is an interactive business intelligence and demand prediction syste
 1. Install dependencies:
    pip install -r requirements.txt
 
-2. Analylsis of FMCG Dataset
+2. Analylsis of FMCG Dataset:
    Capstone Project.ipynb
 
 2. Run the app:
